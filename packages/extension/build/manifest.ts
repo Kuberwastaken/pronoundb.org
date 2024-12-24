@@ -85,6 +85,7 @@ export default function manifest (): Plugin {
 							'https://*.discord.com/*',
 							'https://*.github.com/*',
 							'https://*.modrinth.com/*',
+							'https://*.sr.ht/*',
 							'https://*.twitch.tv/*',
 							'https://*.twitter.com/*',
 							'https://*.x.com/*',
